@@ -5,7 +5,7 @@ description: >
   Never Give Up      
 baseurl: "" 
 url: "http://PrefixAutomataSong.github.io"
-github_username:  PrefixAutumataSong
+github_username:  PrefixAutomataSong
 
 # Build settings
 markdown: kramdown
