@@ -2,18 +2,17 @@
 layout: page
 title: Links
 ---
-## 这里放着一些小朋友:)  
+## 这里放着一些小朋友(&学长):)  
 ---------
 [学姐](http://olers.github.io):EZ机房第一美,肤白貌美大长腿!  
 
-[wine](http://blog.leanote.com/winee):EZ机房开车第一稳,%司机.  
+[Inea](http:/lllinea.github.io): 整天拿着memset0警告我们
 
-[Faller](http://blog.leanote.com/faller):一名看似(大写加黑)正常的三好青年  
+[rrrRRRui](https://www.luogu.org/blog/Rsea-blog/): ~~三好青年~~ 其实就是一个病娇 
 
-[Justpenz](http://blog.csdn.net/justpenz233):黑黑黑？黑黑黑！   
+dogg: 嘲讽一波，连个blog都没有
 
-[白&夜](http://www.cnblogs.com/whitenight/):老不死的老妖精(带有妹子属性)   
+[logfk](https://www.luogu.org/blog/littleherbage/):也算是我们之中的dalao了吧
 
-[小Z](http://0936zz.xyz/):zz！虽然这个博客还没有建。。。
+[sSay](https://ssssssay.github.io/):学长大佬 , ~~可惜现在已经被剥夺了单身的权利~~
 
-[MSY](http://blog.leanote.com/Harbourside):高二大佬%%%
