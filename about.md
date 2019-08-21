@@ -8,7 +8,7 @@ title: About
 の<font color = "#EE0000">咸鱼 MISSYANG</font>   
 ## 君の名   
 不要问我为什么是MISSYANG 
-#### <font color = "#EE0000">sSay</font> is short for my last name(~~注意不是last girlfriend,也就rrrRRRui才会有吧（听他说他养了许多鱼）~~)  
+#### <font color = "#EE0000">MISSYANG</font> is my last name(~~注意不是last girlfriend,也就rrrRRRui才会有吧（听他说他养了许多鱼）~~)  
 这个名字的由来？
 > 欲言又止  
 
