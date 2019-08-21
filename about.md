@@ -3,25 +3,18 @@ layout: page
 title: About
 ---
 ## About me
-目前在CQU学习，专业计科
-**蒟蒻属性Max**   
-**沙茶属性Max**   
-## 酱油选手  
-#### 兼退役选手   
-#### 兼爆零选手   
-#### 兼文化课选手  
-の<font color = "#EE0000">咸鱼 sssSSSay</font>   
+目前在HSZZ学习,文化课和OI都学的一塌糊涂的人
+
+の<font color = "#EE0000">咸鱼 MISSYANG</font>   
 ## 君の名   
-由于这个名字太长所以...   
-#### <font color = "#EE0000">sSay</font> is short for sssSSSay
-你可以叫它'[seɪ]   
+不要问我为什么是MISSYANG 
+#### <font color = "#EE0000">sSay</font> is short for my last name(~~注意不是last girlfriend,也就rrrRRRui才会有吧（听他说他养了许多鱼）~~)  
 这个名字的由来？
 > 欲言又止  
 
 也就是这个   
 ![say](http://imglf1.nosdn.127.net/img/L3owcXMvOE5FVmh1RUIvVkZPRmpZdzdFRjRaekhQYm8zTHVXdjRFYjJ0dGJmd2JWTW9QclVnPT0.png?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg)   
-## Contact
-企鹅号：腰094238312
+
 ~\(≧▽≦)/~   
 ## Some words
 ><font color = "#9B30FF">私たちはぬかるみの中、星空見上げている人がいる——奥斯卡·王尔德</font>
@@ -34,7 +27,7 @@ title: About
 {% highlight cpp %}#include <iostream>
 using namespace std;
 int main() {
-  while(true) puts("Welcome to sSay's blog.");
+  while(true) puts("Welcome to PAS's blog.");
   return 0;
 }
 {% endhighlight %}
